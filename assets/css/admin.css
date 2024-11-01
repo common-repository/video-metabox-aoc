@@ -1,0 +1,9 @@
+.aoc-img-wrap {
+    width: 30%;
+    float: left;
+    height: 200px;
+    vertical-align: middle;
+    text-align: center;
+    border:1px solid #f2f2f2;
+    margin:2px;
+}
